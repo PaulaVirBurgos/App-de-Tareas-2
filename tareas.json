@@ -1,0 +1,30 @@
+[
+  {
+    "titulo": "Ir al médico",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Hacer la dieta",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Hacer ejercio",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Ir al supermercado",
+    "estado": "En proceso"
+  },
+  {
+    "titulo": "Pesarme sin tener miedo",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Ir al Super",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Ver la temporada completa de Star Wars Rebels",
+    "estado": "terminada"
+  }
+]
